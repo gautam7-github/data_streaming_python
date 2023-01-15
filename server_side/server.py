@@ -6,7 +6,7 @@ import pandas as pd
 import requests
 import websockets
 
-import generator as gtr
+import server_side.generator as gtr
 
 
 class DataFrameServer:
